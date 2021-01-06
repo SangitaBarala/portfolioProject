@@ -347,7 +347,6 @@ body
 }
 #contact
 {
-	/* margin-top:30px; */
 	background-image: url(../Images/contact.webp);
 	background-size: cover;
     background-position: center;
@@ -409,7 +408,7 @@ body
 {
 	font-size:20px;
 	padding:15px;
-	color:black;
+	color:white;
 	margin-left:2px;
 }
 .form-group
@@ -445,8 +444,7 @@ body
 	height:110px;
 	background-color:black;
 	color:white;
-	z-index:80;
-	
+	z-index:80;	
 }
 #footer ul li
 {
